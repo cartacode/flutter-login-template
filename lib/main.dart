@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:the_gorgeous_login/ui/login_page.dart';
+import 'package:it_avenger_login/ui/login_page.dart';
 
 void main() => runApp(new MyApp());
 

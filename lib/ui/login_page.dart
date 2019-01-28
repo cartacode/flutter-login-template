@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:the_gorgeous_login/style/theme.dart' as Theme;
-import 'package:the_gorgeous_login/utils/bubble_indication_painter.dart';
+import 'package:it_avenger_login/style/theme.dart' as Theme;
+import 'package:it_avenger_login/utils/bubble_indication_painter.dart';
 
 class LoginPage extends StatefulWidget {
   LoginPage({Key key}) : super(key: key);
